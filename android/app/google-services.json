@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "80633219831",
+    "project_id": "ipubook1",
+    "storage_bucket": "ipubook1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80633219831:android:05bd9cceee6e148a6561f2",
+        "android_client_info": {
+          "package_name": "com.example.ipubook1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80633219831-5qivhrvunktl4s5j99hitng51q2u5koe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ipubook1",
+            "certificate_hash": "acdfc5a620ecf3fa7a3937817267b4343163f6f4"
+          }
+        },
+        {
+          "client_id": "80633219831-cplvklv8fkvsbdarn131t833fpgn97md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtZO3hpnLFVHolZAE6WACdc504M4qC2ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80633219831-cplvklv8fkvsbdarn131t833fpgn97md.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
